@@ -8,7 +8,9 @@
 <ul>
 <li>🌱 I’m currently learning Flutter my folio : https://wuknow.netlify.app/</li>
 <li>✌  I’m working in a fullstack project ~ Spring Boot . React . TS . JAVA</li>
-<li>🐼 I'm testing with POC mercure / Symfony 5 / Api platform</li>
+<li>🐼 <strike>I'm testing with POC mercure / Symfony 5 / Api platform</u></strike>
+<li> Creating landing page Next JS </li>
+
 </ul>
 <br></br>
 
