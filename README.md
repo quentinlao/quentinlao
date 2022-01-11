@@ -6,10 +6,10 @@
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Work in progress</h2>
 <ul>
-<li>🌱 I’m currently learning Flutter my folio : https://wuknow.netlify.app/</li>
+<li>🌱 <strike>I’m currently learning Flutter my folio</strike> : https://wuknow.netlify.app/</li>
 <li>✌  I’m working in a fullstack project ~ Spring Boot . React . TS . JAVA</li>
 <li>🐼 <strike>I'm testing with POC mercure / Symfony 5 / Api platform</u></strike>
-<li> Creating landing page Next JS </li>
+<li> <strike>Creating landing page Next JS </strike></li>
 
 </ul>
 <br></br>
