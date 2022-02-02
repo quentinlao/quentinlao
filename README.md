@@ -10,7 +10,7 @@
 <li>✌  I’m working in a fullstack project ~ Spring Boot . React . TS . JAVA</li>
 <li>🐼 <strike>I'm testing with POC mercure / Symfony 5 / Api platform</u></strike>
 <li> <strike>Creating landing page Next JS </strike></li>
-
+<li> WIP : creating a react template for starting fast a project from scratch</li>
 </ul>
 <br></br>
 
