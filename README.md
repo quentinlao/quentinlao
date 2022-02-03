@@ -14,6 +14,31 @@
 </ul>
 <br></br>
 
+## Roadmap to senior dev
+- [x] Create a Next JS project to learn SEO : https://www.calixtelao.fr/
+  - [x] Deploy to Vercel provider
+  - [x] Configure DNS domain
+  - [x] Git continious integration & Continious deployment 
+  - [x] Server Side Rendering & Static (example usefull Zoom API)
+  - [x] NodeMailer SMTP mailing with template HTML/CSS receiver (example mailing list)
+- [x] Use Typeform API to create form and chat app 
+  - [x] Customize tooltip, template and chat app 
+- [ ] Backend Authentification
+    - [ ] JWT sha1 token (bearer and authorization)
+    - [ ] Oauth2
+    - [ ] SSO Keycloack as french "France connect"
+- [ ] Create React Template
+    - [x] webpack configuration
+    - [x] babel js compiler ES annotation and type
+    - [x] Typescript configuration
+    - [x] package.json npm config handler
+    - [ ] ... 
+- [ ] Frontend architecture
+   - [ ] Redux
+   - [ ] Redux saga side effect manager
+   - [ ] Flux
+   - [ ] React router v6
+
 <h2><img src="https://image.flaticon.com/icons/png/512/4457/4457024.png" height="20"> Tech stack</h2>
 
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4) ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2)
