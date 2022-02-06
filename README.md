@@ -21,23 +21,53 @@
   - [x] Git continious integration & Continious deployment 
   - [x] Server Side Rendering & Static (example usefull Zoom API)
   - [x] NodeMailer SMTP mailing with template HTML/CSS receiver (example mailing list)
+  - [x] Indexation and optimization searching https://search.google.com/
 - [x] Use Typeform API to create form and chat app 
   - [x] Customize tooltip, template and chat app 
 - [ ] Backend Authentification
     - [ ] JWT sha1 token (bearer and authorization)
     - [ ] Oauth2
     - [ ] SSO Keycloack as french "France connect"
-- [ ] Create React Template
+- [ ] Backend REST
+    - [ ] CRUD
+    - [ ] Socket
+    - [ ] STOMP
+    - [ ] Queue manager RabbitMQ, Kafka 
+- [ ] Create React Template : https://github.com/quentinlao/reactTemplate
     - [x] webpack configuration
     - [x] babel js compiler ES annotation and type
     - [x] Typescript configuration
     - [x] package.json npm config handler
     - [ ] ... 
+- [ ] Frontend specific
+  - [ ] Swagger UI
+  - [x] Pure CSS
+  - [x] Tailwind css
+  - [ ] Sass
+  - [x] Material UI
+  - [x] Bootstraps
 - [ ] Frontend architecture
    - [ ] Redux
    - [ ] Redux saga side effect manager
    - [ ] Flux
    - [ ] React router v6
+- [ ] API fetching data
+  - [x] Axios
+  - [ ] Fetch 
+- [x] Data persistancy
+  - [x] Relationnal MySQL, Postgres, Oracle 11g
+  - [x] NoSQL MongoDB Firebase 
+- [x] Deployment CI/CD
+  - [x] gitlab pipelines
+  - [x] redhat OpenShift
+  - [x] Netlify, Vercel, Heroku
+  - [ ] VPS custom CI/CD (OVH)
+- [x] Versionning
+  - [x] Gitlab
+  - [x] Github
+  - [x] Bitbucket
+  - [x] Git and Svn commands
+
 
 <h2><img src="https://image.flaticon.com/icons/png/512/4457/4457024.png" height="20"> Tech stack</h2>
 
