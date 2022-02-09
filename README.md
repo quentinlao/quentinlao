@@ -51,17 +51,24 @@
    - [ ] Redux saga side effect manager
    - [ ] Flux
    - [ ] React router v6
+   - [ ] Eagger loading & lazy loading
+   - [ ] Force SSR with node in a react app
 - [ ] API fetching data
   - [x] Axios
   - [ ] Fetch 
 - [x] Data persistancy
   - [x] Relationnal MySQL, Postgres, Oracle 11g
   - [x] NoSQL MongoDB Firebase 
-- [x] Deployment CI/CD
+  - [ ] loadbalancer
+- [x] Deployment CI/CD, quality coding, scaling
   - [x] gitlab pipelines
   - [x] redhat OpenShift
   - [x] Netlify, Vercel, Heroku
   - [ ] VPS custom CI/CD (OVH)
+  - [ ] sonar
+  - [ ] jenkins
+  - [ ] postman runner to test big loading
+  - [ ] nginx reverse proxy
 - [x] Versionning
   - [x] Gitlab
   - [x] Github
