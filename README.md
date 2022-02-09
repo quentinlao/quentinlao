@@ -21,7 +21,7 @@
   - [x] Git continious integration & Continious deployment 
   - [x] Server Side Rendering & Static (example usefull Zoom API)
   - [x] NodeMailer SMTP mailing with template HTML/CSS receiver (example mailing list)
-  - [x] Indexation and optimization searching https://search.google.com/
+  - [x] Indexation and optimization searching https://search.google.com/search-console?action=inspect&utm_medium=referral&utm_campaign=9012289
 - [x] Use Typeform API to create form and chat app 
   - [x] Customize tooltip, template and chat app 
 - [ ] Backend Authentification
