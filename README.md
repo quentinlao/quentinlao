@@ -33,6 +33,7 @@
     - [ ] Socket
     - [ ] STOMP
     - [ ] Queue manager RabbitMQ, Kafka 
+    - [x] Design pattern : DAO, Facade, Factory, Singleton / JUnit / Logger https://github.com/quentinlao/backend/tree/master/maven-ebenus-dao-service
 - [ ] Create React Template : https://github.com/quentinlao/reactTemplate
     - [x] webpack configuration
     - [x] babel js compiler ES annotation and type
