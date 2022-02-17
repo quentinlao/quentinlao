@@ -28,12 +28,13 @@
     - [ ] JWT sha1 token (bearer and authorization)
     - [ ] Oauth2
     - [ ] SSO Keycloack as french "France connect"
-- [ ] Backend REST
-    - [ ] CRUD
+- [ ] Backend
+    - [ ] CRUD REST
     - [ ] Socket
     - [ ] STOMP
     - [ ] Queue manager RabbitMQ, Kafka 
     - [x] Design pattern : DAO, Facade, Factory, Singleton / JUnit / Logger https://github.com/quentinlao/backend/tree/master/maven-ebenus-dao-service
+    - [x] Architecture fullstack https://github.com/quentinlao/backend/tree/master/schema
 - [ ] Create React Template : https://github.com/quentinlao/reactTemplate
     - [x] webpack configuration
     - [x] babel js compiler ES annotation and type
