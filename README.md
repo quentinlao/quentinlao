@@ -26,12 +26,12 @@
   - [x] Customize tooltip, template and chat app 
 - [ ] Backend Authentification
     - [ ] JWT sha1 token (bearer and authorization)
-    - [ ] Oauth2
+    - [x] Oauth2 https://github.com/quentinlao/backend/tree/master/websocket-spring
     - [ ] SSO Keycloack as french "France connect"
 - [ ] Backend
     - [ ] CRUD REST
     - [ ] Socket
-    - [ ] STOMP
+    - [x] STOMP https://github.com/quentinlao/backend/tree/master/websocket-spring
     - [ ] Queue manager RabbitMQ, Kafka 
     - [x] Design pattern : DAO, Facade, Factory, Singleton / JUnit / Logger https://github.com/quentinlao/backend/tree/master/maven-ebenus-dao-service
     - [x] Architecture fullstack https://github.com/quentinlao/backend/tree/master/schema
