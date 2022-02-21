@@ -35,12 +35,13 @@
     - [ ] Queue manager RabbitMQ, Kafka 
     - [x] Design pattern : DAO, Facade, Factory, Singleton / JUnit / Logger https://github.com/quentinlao/backend/tree/master/maven-ebenus-dao-service
     - [x] Architecture fullstack https://github.com/quentinlao/backend/tree/master/schema
-- [ ] Create React Template : https://github.com/quentinlao/reactTemplate
+- [x] Create React Template : npm i crt-skeleton https://www.npmjs.com/package/crt-skeleton
     - [x] webpack configuration
     - [x] babel js compiler ES annotation and type
     - [x] Typescript configuration
     - [x] package.json npm config handler
-    - [ ] ... 
+    - [x] Prettier ESlint Git Hooks
+    - [x] IT/UT/Coverage 
 - [ ] Frontend specific
   - [ ] Swagger UI
   - [x] Pure CSS
@@ -76,6 +77,7 @@
   - [x] Github
   - [x] Bitbucket
   - [x] Git and Svn commands
+- [x] Scripting
 
 
 <h2><img src="https://image.flaticon.com/icons/png/512/4457/4457024.png" height="20"> Tech stack</h2>
