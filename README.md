@@ -10,7 +10,7 @@
 <li>✌  I’m working in a fullstack project ~ Spring Boot . React . TS . JAVA</li>
 <li>🐼 <strike>I'm testing with POC mercure / Symfony 5 / Api platform</u></strike>
 <li> <strike>Creating landing page Next JS </strike></li>
-<li> WIP : creating a react template for starting fast a project from scratch</li>
+<li> <strike>reating a react template for starting fast a project from scratch </strike></li>
 </ul>
 <br></br>
 
@@ -35,7 +35,7 @@
     - [ ] Queue manager RabbitMQ, Kafka 
     - [x] Design pattern : DAO, Facade, Factory, Singleton / JUnit / Logger https://github.com/quentinlao/backend/tree/master/maven-ebenus-dao-service
     - [x] Architecture fullstack https://github.com/quentinlao/backend/tree/master/schema
-- [x] Create React Template : npm i crt-skeleton https://www.npmjs.com/package/crt-skeleton
+- [x] Create React Template https://github.com/quentinlao/reactTemplate
     - [x] webpack configuration
     - [x] babel js compiler ES annotation and type
     - [x] Typescript configuration
@@ -77,7 +77,7 @@
   - [x] Github
   - [x] Bitbucket
   - [x] Git and Svn commands
-- [x] Scripting
+- [x] Scripting https://github.com/quentinlao/scripting
 
 
 <h2><img src="https://image.flaticon.com/icons/png/512/4457/4457024.png" height="20"> Tech stack</h2>
