@@ -35,7 +35,7 @@
     - [ ] Queue manager RabbitMQ, Kafka 
     - [x] Design pattern : DAO, Facade, Factory, Singleton / JUnit / Logger https://github.com/quentinlao/backend/tree/master/maven-ebenus-dao-service
     - [x] Architecture fullstack https://github.com/quentinlao/backend/tree/master/schema
-- [x] Create React Template https://github.com/quentinlao/reactTemplate
+- [x] Create React Template https://github.com/quentinlao/reactTemplate and the article https://medium.com/@sakeshi/the-project-crt-skeleton-61c72f10763d
     - [x] webpack configuration
     - [x] babel js compiler ES annotation and type
     - [x] Typescript configuration
