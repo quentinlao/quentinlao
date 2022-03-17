@@ -2,17 +2,7 @@
 
 <h1 align="center">Welcome to my github <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Quentin LAO </h1>
 
-<p align="center" width="150px"> I"m software developper since 2018</p>
-
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Work in progress</h2>
-<ul>
-<li>🌱 <strike>I’m currently learning Flutter my folio</strike> : https://wuknow.netlify.app/</li>
-<li>✌  I’m working in a fullstack project ~ Spring Boot . React . TS . JAVA</li>
-<li>🐼 <strike>I'm testing with POC mercure / Symfony 5 / Api platform</u></strike>
-<li> <strike>Creating landing page Next JS </strike></li>
-<li> <strike>reating a react template for starting fast a project from scratch </strike></li>
-</ul>
-<br></br>
+<p align="center" width="150px"> I'm a software developper since 2018</p>
 
 ## Roadmap to senior dev
 - [x] Create a Next JS project to learn SEO : https://www.calixtelao.fr/
