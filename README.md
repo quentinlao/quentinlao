@@ -15,7 +15,7 @@
 - [x] Use Typeform API to create form and chat app 
   - [x] Customize tooltip, template and chat app 
 - [ ] Backend Authentification
-    - [ ] JWT sha1 token (bearer and authorization)
+    - [x] JWT sha1 token (bearer and authorization) https://github.com/quentinlao/tellings typeOrm node TS and backend Java Spring
     - [x] Oauth2 https://github.com/quentinlao/backend/tree/master/websocket-spring
     - [ ] SSO Keycloack as french "France connect"
 - [ ] Backend
@@ -25,6 +25,7 @@
     - [ ] Queue manager RabbitMQ, Kafka 
     - [x] Design pattern : DAO, Facade, Factory, Singleton / JUnit / Logger https://github.com/quentinlao/backend/tree/master/maven-ebenus-dao-service
     - [x] Architecture fullstack https://github.com/quentinlao/backend/tree/master/schema
+    - [ ] SOLID Architecture Node JS
 - [x] Create React Template https://github.com/quentinlao/reactTemplate and the article https://medium.com/@sakeshi/the-project-crt-skeleton-61c72f10763d
     - [x] webpack configuration
     - [x] babel js compiler ES annotation and type
@@ -40,15 +41,17 @@
   - [x] Material UI
   - [x] Bootstraps
 - [ ] Frontend architecture
-   - [ ] Redux
+   - [x] Redux
+   - [x] Redux RTK https://github.com/quentinlao/tellings/tree/main/clientRedux
+   - [x] Server management React-query https://github.com/quentinlao/tellings/tree/main/clientRedux 
    - [ ] Redux saga side effect manager
    - [ ] Flux
    - [ ] React router v6
-   - [ ] Eagger loading & lazy loading
-   - [ ] Force SSR with node in a react app
+   - [ ] Eagger loading & lazy loading 
+   - [ ] Force SSR with node in a react app ReactDOMserver.renderToString()
 - [ ] API fetching data
   - [x] Axios
-  - [ ] Fetch 
+  - [ ] Fetch node 18 native API test
 - [x] Data persistancy
   - [x] Relationnal MySQL, Postgres, Oracle 11g
   - [x] NoSQL MongoDB Firebase 
