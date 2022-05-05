@@ -49,7 +49,7 @@
    - [ ] React router v6
    - [ ] Eagger loading & lazy loading 
    - [ ] Force SSR with node in a react app ReactDOMserver.renderToString()
-- [ ] API fetching data
+- [x] API fetching data
   - [x] Axios
   - [x] Fetch node 18 native API test https://github.com/nodejs/node/pull/41749
 - [x] Data persistancy
@@ -58,6 +58,7 @@
   - [ ] loadbalancer
 - [x] Deployment CI/CD, quality coding, scaling
   - [x] gitlab pipelines
+  - [x] github workflow dependabot
   - [x] redhat OpenShift
   - [x] Netlify, Vercel, Heroku
   - [ ] VPS custom CI/CD (OVH)
