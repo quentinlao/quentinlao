@@ -51,7 +51,7 @@
    - [ ] Force SSR with node in a react app ReactDOMserver.renderToString()
 - [ ] API fetching data
   - [x] Axios
-  - [ ] Fetch node 18 native API test
+  - [x] Fetch node 18 native API test https://github.com/nodejs/node/pull/41749
 - [x] Data persistancy
   - [x] Relationnal MySQL, Postgres, Oracle 11g
   - [x] NoSQL MongoDB Firebase 
