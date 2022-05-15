@@ -19,7 +19,7 @@
     - [x] Oauth2 https://github.com/quentinlao/backend/tree/master/websocket-spring
     - [ ] SSO Keycloack as french "France connect"
 - [ ] Backend
-    - [ ] CRUD REST
+    - [x] CRUD REST https://github.com/quentinlao/tellings/tree/main/typeormNode
     - [ ] Socket
     - [x] STOMP https://github.com/quentinlao/backend/tree/master/websocket-spring
     - [ ] Queue manager RabbitMQ, Kafka 
@@ -41,12 +41,12 @@
   - [x] Material UI
   - [x] Bootstraps
 - [ ] Frontend architecture
-   - [x] Redux
+   - [x] Redux https://github.com/quentinlao/interviews/tree/main/myAmdb
    - [x] Redux RTK https://github.com/quentinlao/tellings/tree/main/clientRedux
    - [x] Server management React-query https://github.com/quentinlao/tellings/tree/main/clientRedux 
    - [ ] Redux saga side effect manager
    - [ ] Flux
-   - [ ] React router v6
+   - [x] React router v6 https://github.com/quentinlao/interviews/tree/main/myAmdb
    - [ ] Eagger loading & lazy loading 
    - [ ] Force SSR with node in a react app ReactDOMserver.renderToString()
 - [x] API fetching data
