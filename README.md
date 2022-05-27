@@ -23,7 +23,7 @@
     - [ ] Socket
     - [x] STOMP https://github.com/quentinlao/backend/tree/master/websocket-spring
     - [ ] Queue manager RabbitMQ, Kafka 
-    - [x] Design pattern : DAO, Facade, Factory, Singleton / JUnit / Logger https://github.com/quentinlao/backend/tree/master/maven-ebenus-dao-service
+    - [x] Design pattern : DAO, Facade, Factory, Singleton / JUnit / Logger https://github.com/quentinlao/backend/tree/master/maven-ebenus-dao-service https://refactoring.guru/fr/design-patterns
     - [x] Architecture fullstack https://github.com/quentinlao/backend/tree/master/schema
     - [ ] SOLID Architecture Node JS
 - [x] Create React Template https://github.com/quentinlao/reactTemplate and the article https://medium.com/@sakeshi/the-project-crt-skeleton-61c72f10763d
