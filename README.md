@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Welcome to my github <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Quentin LAO </h1>
+<h1 align="center">Welcome to my github ♣, I am Quentin LAO </h1>
 
 <p align="center" width="150px"> I'm a software developper since 2018</p>
 
