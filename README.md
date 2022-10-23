@@ -40,6 +40,12 @@
   - [ ] Sass
   - [x] Material UI
   - [x] Bootstraps
+- [ ] Testing e2e and provider runner
+  - [x] Cypress
+  - [x] Nightwatch
+  - [ ] playwright
+  - [x] Browserstack
+
 - [ ] Frontend architecture
    - [x] Redux https://github.com/quentinlao/interviews/tree/main/myAmdb
    - [x] Redux RTK https://github.com/quentinlao/tellings/tree/main/clientRedux
