@@ -40,10 +40,10 @@
   - [ ] Sass
   - [x] Material UI
   - [x] Bootstraps
-- [ ] Testing e2e and provider runner
+- [x] Testing e2e and provider runner
   - [x] Cypress
   - [x] Nightwatch
-  - [ ] playwright
+  - [x] playwright
   - [x] Browserstack
 
 - [ ] Frontend architecture
