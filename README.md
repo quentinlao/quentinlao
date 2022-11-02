@@ -2,7 +2,7 @@
 
 <h1 align="center">I am Quentin LAO </h1>
 <p align="center" width="150px"> I'm a software developper 👨🏻‍💻 </p>
-👨🏻‍💻
+
 <p>
 
 <img  float="left" src="https://github-readme-stats.vercel.app/api?username=quentinlao&show_icons=true&hide=prs" />
