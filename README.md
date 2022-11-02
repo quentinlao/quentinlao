@@ -1,6 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">Welcome to my github ♣, I am Quentin LAO </h1>
+![quentinlao's github stats](https://github-readme-stats.vercel.app/api?username=quentinlao&show_icons=true)
 
 <p align="center" width="150px"> I'm a software developper since 2018</p>
 
