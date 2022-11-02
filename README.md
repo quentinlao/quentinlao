@@ -1,9 +1,15 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Welcome to my github ♣, I am Quentin LAO </h1>
-![quentinlao's github stats](https://github-readme-stats.vercel.app/api?username=quentinlao&show_icons=true)
+<h1 align="center">I am Quentin LAO </h1>
+<p align="center" width="150px"> I'm a software developper 👨🏻‍💻 </p>
+👨🏻‍💻
+<p>
 
-<p align="center" width="150px"> I'm a software developper since 2018</p>
+<img  float="left" src="https://github-readme-stats.vercel.app/api?username=quentinlao&show_icons=true&hide=prs" />
+
+
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlao&show_icons=true&layout=compact" />
+</p>
 
 ## Roadmap to senior dev
 - [x] Create a Next JS project to learn SEO : https://www.calixtelao.fr/
