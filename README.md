@@ -75,7 +75,7 @@
   - [x] redhat OpenShift
   - [x] Netlify, Vercel, Heroku
   - [ ] VPS custom CI/CD (OVH)
-  - [ ] sonar https://github.com/apps/sonarcloud
+  - [x] sonar [https://github.com/apps/sonarcloud](https://sonarcloud.io/summary/overall?id=quentinlao_reactTemplate)
   - [ ] jenkins
   - [ ] postman runner to test big loading
   - [ ] nginx reverse proxy
