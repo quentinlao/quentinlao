@@ -49,9 +49,9 @@
   - [x] Bootstraps
 - [x] Testing e2e and provider runner
   - [x] Cypress
-  - [x] Nightwatch
+  - [x] Nightwatch https://medium.com/@saasak/run-browserstack-with-nightwatch-3a0a40eff2eb
   - [x] playwright
-  - [x] Browserstack
+  - [x] Browserstack https://medium.com/@saasak/run-browserstack-with-nightwatch-3a0a40eff2eb
 
 - [ ] Frontend architecture
    - [x] Redux https://github.com/quentinlao/interviews/tree/main/myAmdb
