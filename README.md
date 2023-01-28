@@ -47,6 +47,7 @@
   - [ ] Sass
   - [x] Material UI
   - [x] Bootstraps
+  - [ ] Storybook
 - [x] Testing e2e and provider runner
   - [x] Cypress
   - [x] Nightwatch https://medium.com/@saasak/run-browserstack-with-nightwatch-3a0a40eff2eb
