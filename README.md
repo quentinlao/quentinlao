@@ -40,14 +40,14 @@
     - [x] package.json npm config handler
     - [x] Prettier ESlint Git Hooks
     - [x] IT/UT/Coverage 
-- [ ] Frontend specific
-  - [ ] Swagger UI
+- [x] Frontend specific
+  - [x] Swagger UI
   - [x] Pure CSS
   - [x] Tailwind css
-  - [ ] Sass
+  - [x] Sass
   - [x] Material UI
   - [x] Bootstraps
-  - [ ] Storybook
+  - [x] Storybook
 - [x] Testing e2e and provider runner
   - [x] Cypress
   - [x] Nightwatch https://medium.com/@saasak/run-browserstack-with-nightwatch-3a0a40eff2eb
