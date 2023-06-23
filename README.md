@@ -79,7 +79,7 @@
   - [x] sonar [https://github.com/apps/sonarcloud](https://sonarcloud.io/summary/overall?id=quentinlao_reactTemplate)
   - [ ] jenkins
   - [ ] postman runner to test big loading
-  - [ ] nginx reverse proxy
+  - [ ] nginx reverse proxy / API Gateway
 - [x] Versionning
   - [x] Gitlab
   - [x] Github
