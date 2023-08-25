@@ -58,8 +58,8 @@
    - [x] Redux https://github.com/quentinlao/interviews/tree/main/myAmdb
    - [x] Redux RTK https://github.com/quentinlao/tellings/tree/main/clientRedux
    - [x] Server management React-query https://github.com/quentinlao/tellings/tree/main/clientRedux 
-   - [ ] Redux saga side effect manager
-   - [ ] Flux
+   - [x] Redux saga side effect manager
+   - [x] Flux
    - [x] React router v6 https://github.com/quentinlao/interviews/tree/main/myAmdb
    - [ ] Eagger loading & lazy loading 
    - [ ] Force SSR with node in a react app ReactDOMserver.renderToString()
@@ -86,7 +86,7 @@
   - [x] Bitbucket
   - [x] Git and Svn commands
 - [x] Scripting https://github.com/quentinlao/scripting
-
+- [x] [Monorepo](https://github.com/quentinlao/monorepo) using turborepo 
 
 <h2>Tech stack</h2>
 
